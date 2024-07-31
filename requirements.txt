@@ -1,4 +1,6 @@
-flask
-requests
-reportlab
-instaloader
+Flask==2.2.2
+gunicorn==19.9.0
+Werkzeug==2.2.2
+requests==2.31.0
+reportlab==4.0.9
+instaloader==4.12.1
